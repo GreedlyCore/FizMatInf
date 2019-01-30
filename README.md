@@ -50,7 +50,7 @@
 
 6. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
-7. Статграды
+7. Статграды 
     + 2016 - 2017
         + 22.09.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_22.09.2016.pdf)
         + 20.12.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2016.pdf)
@@ -68,7 +68,7 @@
     + 2018 - 2019
         + 20.09.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.09.2018.pdf)
         + 20.12.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2018.pdf)
-        + 24.01.2019 
+        + 24.01.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_24.01.2019.pdf)
         + 13.03.2019 
         + 18.04.2019 
         + 17.05.2019
@@ -122,15 +122,16 @@
 # Физика
 1. Каналы 
     + [Павел Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
-2. Сайты
-    + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
-    + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
+2. Задачники
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
     + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2018_физика_Диагностические%20работы.pdf.pdf)
     + ВМК МГУ - школе
         + [Физика. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Fizika_-_uglublenny_kurs.pdf)
         + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
-3. Статграды
+3. Сайты
+    + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
+    + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
+4. Статграды
     + 2016 - 2017
         + 12.10.2016
         + 21.12.2016
