@@ -157,7 +157,9 @@
 1. Каналы
     + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
     + [Irish U](https://www.youtube.com/channel/UCMmdUImvrEree15StDiPDUw)
-2. Аргументы
+2. Задачники
+    + [Цыбулько 2019 36 вариантов](https://vk.com/doc475224071_491566520?hash=7fffa54130c6b9c729&dl=81a2aaf2c60503769b)
+3. Аргументы
     + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
     + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
     + [Булгаков. Мастер и маргарита](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Булгаков_Мастер%20и%20маргарита.pdf)
