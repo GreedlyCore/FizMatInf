@@ -123,6 +123,7 @@
 1. Каналы 
     + [Павел Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
 2. Задачники
+    + [Демидова 2019 30 вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Демидова_30%20вариантов.pdf)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
     + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2018_физика_Диагностические%20работы.pdf.pdf)
     + ВМК МГУ - школе
@@ -205,9 +206,11 @@
 
 
 # Разное полезное и не очень
-1. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
+1.  [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
+    [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
 
 2. Не для егэ
+
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
     + Ютуб каналы
         + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
@@ -222,6 +225,7 @@
     + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
     + [Годный подкаст о личной эффективности](https://willbedone.ru/)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
+    + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
     
  
 
