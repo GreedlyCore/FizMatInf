@@ -207,8 +207,8 @@
 
 
 # Разное полезное и не очень
-1.  [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
-    [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
+1.  + [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
+    + [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
 
 2. Не для егэ
 
