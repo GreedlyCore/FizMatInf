@@ -8,6 +8,7 @@
     + [Борис Трушин](https://www.youtube.com/channel/UCo2JwjPSEc9U8ZJ_KQi6rDQ)
     + [Школа Пифагора](https://www.youtube.com/channel/UC407WiIWio6gwRluzNSUQ3w)
     + [eXtraTeam](https://www.youtube.com/user/dmitrysinyaev)
+    + [Андрей Павликов. ЕГЭ и ОГЭ с математиком МГУ](https://www.youtube.com/channel/UCSdmht0kbvfnItRMNcr4qZA)
   
 2. Задачники
     + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
