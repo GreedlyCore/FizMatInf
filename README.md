@@ -160,6 +160,10 @@
 1. Каналы
     + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
     + [Irish U](https://www.youtube.com/channel/UCMmdUImvrEree15StDiPDUw)
+    + Ляйсан Хутова
+        + [Соточка по русскому](https://www.youtube.com/channel/UCXzJhu8qo7n2h7xG8k12J3g?view_as=subscriber)
+        + [Группа в вк](https://vk.com/sotochka_ege)
+        + [Отличный курс от этой милой девушки](https://stepik.org/course/7798/)
 2. Задачники
     + [Цыбулько 2019 36 вариантов](https://vk.com/doc475224071_491566520?hash=7fffa54130c6b9c729&dl=81a2aaf2c60503769b)
 3. Аргументы
