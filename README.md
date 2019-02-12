@@ -82,7 +82,7 @@
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
   
-2. [Лучший сайт по подготовке](http://kpolyakov.spb.ru/school/ege.htm)
+2. [Лучший сайт по подготовке Полякова Константина Юрьевича](http://kpolyakov.spb.ru/school/ege.htm)
 
     [СКАЧАТЬ АРХИВ ВСЕХ ЗАДАНИЙ](http://kpolyakov.spb.ru/download/ege2019kp.zip)
 
