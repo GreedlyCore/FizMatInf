@@ -78,10 +78,11 @@
 
 
 # Информатика
-1. Каналы 
+1. Каналы и немного не каналы
     + [Информатик Бу](https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA)
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
+    + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
   
 2. [Лучший сайт по подготовке Полякова Константина Юрьевича](http://kpolyakov.spb.ru/school/ege.htm)
 
