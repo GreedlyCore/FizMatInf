@@ -45,6 +45,7 @@
         + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
         + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Задачи%20с%20параметрами.pdf)
         + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
+    + [Ларин Александр Александрович](http://alexlarin.net/ege19.html)
 
 5. Для шпор
     + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
@@ -126,10 +127,12 @@
 2. Задачники
     + [Демидова 2019 30 вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Демидова_30%20вариантов.pdf)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
-    + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2018_физика_Диагностические%20работы.pdf.pdf)
+    + [Диагностические работы 2019](https://github.com/tanookki/FizMatInf/blob/master/2018_физика_Диагностические%20работы.pdf.pdf)
     + ВМК МГУ - школе
         + [Физика. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Fizika_-_uglublenny_kurs.pdf)
         + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
+    + [Лукашева 2019 50вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева_50вариантов.pdf)
+    + [Лукашева 2018](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева.pdf)
 3. Сайты
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
