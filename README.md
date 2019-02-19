@@ -136,7 +136,7 @@
         + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
     + [Лукашева 2019 50вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева_50вариантов.pdf)
     + [Лукашева 2018](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева.pdf)
-    + [Бойденко и Мирошкина_Физика. Полный курс подготовки к ЕГЭ] (https://github.com/tanookki/FizMatInf/blob/master/Бойденко%20и%20Мирошкина_Физика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf)
+    + [Бойденко и Мирошкина_Физика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Бойденко%20и%20Мирошкина_Физика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf)
      
 3. Сайты
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
