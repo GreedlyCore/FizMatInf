@@ -80,6 +80,7 @@
 # Информатика
 1. Каналы и немного не каналы
     + [Информатик Бу](https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA)
+        + [Таблица стрим-зачачи 2019 года](https://docs.google.com/spreadsheets/d/1Dd6TQwtp6QraZO0VdzKITWL-qnL10V-OmAFpjySgN6s/edit?usp=sharing)
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
     + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
