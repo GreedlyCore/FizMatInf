@@ -28,6 +28,7 @@
         + [Алгебра. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Алгебра.%20Базовый%20курс%20с%20решениями%20и%20указаниями_%20учебно-методическое%20пособие.pdf)
         + [Алгебра. Углубленный курс](https://vk.com/doc475224071_490805201?hash=c6ab882c6142254b66&dl=b90d7f1104dc4029e4)
     + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
+    + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Большакова%20и%20Карпунина_Математика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf.pdf)
   
 3. Сайты 
     + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
@@ -135,6 +136,8 @@
         + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
     + [Лукашева 2019 50вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева_50вариантов.pdf)
     + [Лукашева 2018](https://github.com/tanookki/FizMatInf/blob/master/2019_Лукашева.pdf)
+    + [Бойденко и Мирошкина_Физика. Полный курс подготовки к ЕГЭ] (https://github.com/tanookki/FizMatInf/blob/master/Бойденко%20и%20Мирошкина_Физика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf)
+     
 3. Сайты
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
@@ -171,6 +174,8 @@
         + [Отличный курс от этой милой девушки](https://stepik.org/course/7798/)
 2. Задачники
     + [Цыбулько 2019 36 вариантов](https://vk.com/doc475224071_491566520?hash=7fffa54130c6b9c729&dl=81a2aaf2c60503769b)
+3. Справочнкик
+    + [Cловарик паронимов ФИПИ со значениями by Хутова Ляйсан](https://github.com/tanookki/FizMatInf/blob/master/словарик_паронимов_ФИПИ_со_значениями_by_Хутова_Ляйсан.docx)
 3. Аргументы
     + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
     + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
