@@ -127,6 +127,7 @@
 # Физика
 1. Каналы 
     + [Павел Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
+    + [ЕГЭ Физика](https://www.youtube.com/channel/UCuJpM1F9hd6kOV22DgBInVw)
 2. Задачники
     + [Демидова 2019 30 вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Демидова_30%20вариантов.pdf)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
