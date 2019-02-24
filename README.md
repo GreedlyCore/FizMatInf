@@ -29,6 +29,7 @@
         + [Алгебра. Углубленный курс](https://vk.com/doc475224071_490805201?hash=c6ab882c6142254b66&dl=b90d7f1104dc4029e4)
     + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
     + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Большакова%20и%20Карпунина_Математика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf.pdf)
+    + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика%20—%20абитуриенту_Ткачук_2007.pdf)_
   
 3. Сайты 
     + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
