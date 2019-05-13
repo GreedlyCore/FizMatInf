@@ -73,9 +73,9 @@
         + 20.09.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.09.2018.pdf)
         + 20.12.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2018.pdf)
         + 24.01.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_24.01.2019.pdf)
-        + 13.03.2019 
-        + 18.04.2019 
-        + 17.05.2019
+        + 13.03.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_13.03.2019.pdf)
+        + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_19.04.2019.pdf)
+        + 17.05.2019 
 
 
 
@@ -117,7 +117,7 @@
         + 16.11.2018 
         + 16.01.2019 
         + 01.03.2019 
-        + 15.04.2019
+        + 15.04.2019 
  
 5. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
@@ -225,7 +225,10 @@
 # Разное полезное и не очень
 1.  + [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
     + [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
-
+    + [Сайт с пособиями и книгами](https://nashol.com/ege-matematika)
+    + [Папка с кучей нужного по всем почти предметам](https://yadi.sk/d/jWlEgPt0Q7pbuA)
+    + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) // возможны повтоения задачников 
+    
 2. Не для егэ
 
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
