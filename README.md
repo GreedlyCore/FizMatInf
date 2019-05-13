@@ -89,7 +89,7 @@
   
 2. [Лучший сайт по подготовке Полякова Константина Юрьевича](http://kpolyakov.spb.ru/school/ege.htm)
 
-    [СКАЧАТЬ АРХИВ ВСЕХ ЗАДАНИЙ](http://kpolyakov.spb.ru/download/ege2019kp.zip)
+    [СКАЧАТЬ АРХИВ ВСЕХ ЗАДАНИЙ. ПАРОЛЬ К АРХИВУ - kpolyakov.spb.ru](https://www.kpolyakov.spb.ru/download/ege2019kp.7z)
 
 3. Задачники 
     + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
@@ -113,11 +113,11 @@
         + 16.03.2018 
         + 04.05.2018
     + 2018 - 2019
-        + 14.09.2018 
-        + 16.11.2018 
-        + 16.01.2019 
-        + 01.03.2019 
-        + 15.04.2019 
+        + 14.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_ответы%20на%202%20часть.pdf)
+        + 16.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_ответы%20на%202%20часть.pdf)
+        + 16.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.01.2019_ответы%20на%202%20часть.pdf)
+        + 01.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_01.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_01.03.2019_ответы%20на%202%20часть.pdf)
+        + 15.04.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_15.04.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_15.04.2019_ответы%20на%202%20часть.pdf)
  
 5. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
