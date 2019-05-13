@@ -1,4 +1,4 @@
-[Наша беседа](https://vk.me/join/AJQ1d66iKgLiCuhNtYBzDf7k)
+[Группа в вк + есть беседа по физматинфу](https://vk.com/clubmaslov)
 # Математика
 1. Каналы
     + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -82,7 +82,7 @@
 # Информатика
 1. Каналы и немного не каналы
     + [Информатик Бу](https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA)
-        + [Таблица стрим-зачачи 2019 года](https://docs.google.com/spreadsheets/d/1Dd6TQwtp6QraZO0VdzKITWL-qnL10V-OmAFpjySgN6s/edit?usp=sharing)
+        + [Таблица стрим-задачи 2019 года](https://docs.google.com/spreadsheets/d/1Dd6TQwtp6QraZO0VdzKITWL-qnL10V-OmAFpjySgN6s/edit?usp=sharing)
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
     + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
@@ -100,18 +100,6 @@
         + [Информатика. Программирование в примерах и задачах.](https://github.com/tanookki/FizMatInf/blob/master/Информатика.%20Программирование%20в%20примерах%20и%20задачах.%20Т.%20Ю.%20Грацианова.pdf)
 
 4. Статграды
-    + 2016 - 2017
-        + 30.09.2016 
-        + 29.11.2016 
-        + 18.01.2017 
-        + 17.03.2017 
-        + 12.05.2017
-    + 2017 - 2018
-        + 14.09.2017 
-        + 28.11.2017 
-        + 17.01.2018 
-        + 16.03.2018 
-        + 04.05.2018
     + 2018 - 2019
         + 14.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_ответы%20на%202%20часть.pdf)
         + 16.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_ответы%20на%202%20часть.pdf)
@@ -157,11 +145,11 @@
         + 23.03.2018
         + 27.04.2018
     + 2018 - 2019
-        + 18.09.2018
-        + 14.11.2018
-        + 31.01.2019
-        + 14.03.2019
-        + 06.05.2019
+        + 18.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_18.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_18.09.2018_ответы%20на%202%20часть.pdf)
+        + 14.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.11.2018_ответы%20на%202%20часть.pdf)
+        + 31.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_31.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_31.01.2019_ответы%20на%202%20часть.pdf)
+        + 14.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.03.2019_ответы%20на%202%20часть.pdf)
+        + 06.05.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_06.05.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_06.05.2019_ответы%20на%202%20часть.pdf)
         
 
 
