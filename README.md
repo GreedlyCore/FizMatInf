@@ -132,18 +132,6 @@
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
 4. Статграды
-    + 2016 - 2017
-        + 12.10.2016
-        + 21.12.2016
-        + 16.02.2017
-        + 21.03.2017
-        + 28.04.2017
-    + 2017 - 2018
-        + 11.10.2017
-        + 13.12.2017
-        + 14.02.2018
-        + 23.03.2018
-        + 27.04.2018
     + 2018 - 2019
         + 18.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_18.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_18.09.2018_ответы%20на%202%20часть.pdf)
         + 14.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_физ_14.11.2018_ответы%20на%202%20часть.pdf)
@@ -185,27 +173,6 @@
     + [Тургенев. Отцы и дети](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Тургенев_Отцы%20и%20дети.pdf)
     + [Чехов. Вишневый сад](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Чехов_Вишневый%20сад.pdf)
     + [Шолохов. Судьба человека](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Шолохов_Судьба%20человека.pdf)
-4. Статграды
-    + 2016 - 2017
-        + 28.09.2016
-        + 09.11.2016
-        + 07.02.2017
-        + 05.04.2017
-        + 12.05.2017
-        + 17.05.2017
-    + 2017 - 2018
-        + 28.09.2017
-        + 08.11.2017
-        + 06.02.2018
-        + 28.03.2018
-        + 24.04.2018
-        + 16.05.2018
-    + 2018 - 2019
-        + 28.09.2018
-        + 07.11.2018
-        + 05.02.2019
-        + 18.03.2019
-        + 16.05.2019
 
 
 
@@ -229,9 +196,10 @@
         + [Coursera](https://coursera.org)
         + [Stepik](https://stepik.org/catalog)
         + [Открытое образование](https://openedu.ru)
+    + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
-    + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
-    + [Годный подкаст о личной эффективности](https://willbedone.ru/)
+    + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
+    + [Годный подкаст о личной эффективности](https://willbedone.ru/) + [канал в телеграме](https://t.me/willbedone)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
     
