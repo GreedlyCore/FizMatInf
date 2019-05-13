@@ -1,4 +1,4 @@
-[Группа в вк + есть беседа по физматинфу](https://vk.com/clubmaslov)
+[Группа в вк](https://vk.com/clubmaslov)
 # Математика
 1. Каналы
     + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -185,7 +185,6 @@
     + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) // возможны повтоения задачников 
     
 2. Не для егэ
-
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
     + Ютуб каналы
         + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
