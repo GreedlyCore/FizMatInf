@@ -1,4 +1,6 @@
-[Группа в вк](https://vk.com/clubmaslov)
+[Наша группа в вк](https://vk.com/clubmaslov)
+Если нашел какую-то ошибку или у тебя есть материалы, которых нет тут, то пиши [мне](https://vk.com/tanookki)
+
 # Математика
 1. Каналы
     + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -150,8 +152,11 @@
         + [Соточка по русскому](https://www.youtube.com/channel/UCXzJhu8qo7n2h7xG8k12J3g?view_as=subscriber)
         + [Группа в вк](https://vk.com/sotochka_ege)
         + [Отличный курс от этой милой девушки](https://stepik.org/course/7798/)
+    + [не канал, а беседа вк, где люди сами пишут сочинения, а затем проверяют чужие](https://vk.me/join/AJQ1d57oPwwAxxVORtP0Z09T)
 2. Задачники
     + [Цыбулько 2019 36 вариантов](https://vk.com/doc475224071_491566520?hash=7fffa54130c6b9c729&dl=81a2aaf2c60503769b)
+    + [Учимся писать сочинение](https://github.com/tanookki/FizMatInf/blob/master/учимся%20писать%20сочинение.pdf)
+    + [Алгоритм написания сочинения](https://github.com/tanookki/FizMatInf/blob/master/алгоритм%20написания%20сочинения.djvu)
 3. Справочники
     + [Cловарик паронимов ФИПИ со значениями by Хутова Ляйсан](https://github.com/tanookki/FizMatInf/blob/master/словарик_паронимов_ФИПИ_со_значениями_by_Хутова_Ляйсан.docx)
 3. Аргументы
@@ -182,7 +187,7 @@
     + [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
     + [Сайт с пособиями и книгами](https://nashol.com/ege-matematika)
     + [Папка с кучей нужного по всем почти предметам](https://yadi.sk/d/jWlEgPt0Q7pbuA)
-    + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) // возможны повтоения задачников 
+    + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) и [еще раз математике](https://yadi.sk/d/b-IR1yyJl7xdjQ)// возможны повторения задачников 
     
 2. Не для егэ
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
