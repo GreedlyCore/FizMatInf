@@ -35,10 +35,10 @@
     + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика%20—%20абитуриенту_Ткачук_2007.pdf)_
   
 3. Сайты 
-    + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
+    + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
     + [Desmos. Покатайся по графикам](https://www.desmos.com)
     + [Wolfram Аlpha](https://www.wolframalpha.com)
-    + [math100.ru](http://math100.ru/sprav-mat/)
+    + [math100.ru](http://math100.ru/sprav-mat/) 
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
         + Для 13 и 15
             + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
@@ -120,6 +120,7 @@
 1. Каналы 
     + [Павел Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
     + [ЕГЭ Физика](https://www.youtube.com/channel/UCuJpM1F9hd6kOV22DgBInVw)
+    + [Полтора котэ ЕГЭ и ОГЭ по физике](https://www.youtube.com/c/ПолторакотэЕГЭиОГЭпофизике) + [группа вк, где много интересных штук от автора](https://vk.com/stream_fiz)
 2. Задачники
     + [Демидова 2019 30 вариантов](https://github.com/tanookki/FizMatInf/blob/master/2019_Демидова_30%20вариантов.pdf)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
