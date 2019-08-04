@@ -38,7 +38,7 @@
     + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
     + [Desmos. Покатайся по графикам](https://www.desmos.com)
     + [Wolfram Аlpha](https://www.wolframalpha.com)
-    + [math100.ru](http://math100.ru/sprav-mat/) 
+    + [math100.ru](http://math100.ru) 
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
         + Для 13 и 15
             + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
@@ -57,7 +57,7 @@
 
 6. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
-7. Статграды 
+7. Статграды // Все взято [тут](http://math100.ru/egeprofil-statgrad/)
     + 2016 - 2017
         + 22.09.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_22.09.2016.pdf)
         + 20.12.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2016.pdf)
@@ -78,7 +78,7 @@
         + 24.01.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_24.01.2019.pdf)
         + 13.03.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_13.03.2019.pdf)
         + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_19.04.2019.pdf)
-        + 17.05.2019 
+        + 17.05.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_17.05.2019.pdf)
 
 
 
