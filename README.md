@@ -5,6 +5,7 @@
 # Математика
 1. Каналы
     + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
+        + [Задачник по стримам 2019](https://docs.google.com/document/d/1M3B8q-yoZFjYRP6o3UWMn57DdtpnaVa-QtBxeTRAGts/edit?usp=sharing)
     + [Valery Volkov](https://www.youtube.com/channel/UCLDpIKDTFBSwIYtAG0Wpibg)
     + LOMONOSOV CLUB ([прямые трансляции](https://www.youtube.com/user/lomonosovclubvideo), [записи стримов](https://www.youtube.com/channel/UC9C0wu31Q8jY1NTohcUCXWA))
     + [Wild Mathing](https://www.youtube.com/channel/UCj0Od_id0gPbmwZ65U8xwrw)
@@ -55,7 +56,7 @@
 5. Для шпор
     + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
 
-6. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
+6. [Параметры из открытого банка 2018](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
 7. Статграды // Все взято [тут](http://math100.ru/egeprofil-statgrad/)
     + 2016 - 2017
@@ -86,6 +87,7 @@
 1. Каналы и немного не каналы
     + [Информатик Бу](https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA)
         + [Таблица стрим-задачи 2019 года](https://docs.google.com/spreadsheets/d/1Dd6TQwtp6QraZO0VdzKITWL-qnL10V-OmAFpjySgN6s/edit?usp=sharing)
+        + [Таблица стрим-задачи 2020 года](https://docs.google.com/spreadsheets/d/1f9bxoqXNo0jsCRcZzYGtq44XNL1ym2OnIQUcQpeKBpw/edit?usp=sharing)
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
     + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
