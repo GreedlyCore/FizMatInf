@@ -15,25 +15,25 @@
     + [Андрей Павликов. ЕГЭ и ОГЭ с математиком МГУ](https://www.youtube.com/channel/UCSdmht0kbvfnItRMNcr4qZA)
   
 2. Задачники
-    + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
-    + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
+    + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_36%20вариантов_Ященко.pdf) // Ященко на аве - билет в кармане
+    + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_1%20часть_Ященко.pdf) /////// (военный)
     + Под редакцией И. В. Ященко: 
-    [13](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_13.pdf), [14](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_14.pdf), [15](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_15.pdf), [16](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_16.pdf), [17](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_17.pdf), [18](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_18.pdf), [19](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_19.pdf)
-    + [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Мальцева.pdf)
-    + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
+    [13](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_13%20задание_Ященко.pdf), [14](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_14%20задание_Ященко.pdf), [15](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_15%20задание_Ященко.pdf), [16](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_16%20задание_Ященко.pdf), [17](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_17%20задание_Ященко.pdf), [18](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_18%20задание_Ященко.pdf), [19](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_19%20задание_Ященко.pdf)
+    + [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2018_Мальцева.pdf)
+    + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2018_Лысенко.pdf)
     + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
     + [Задачник Wild Mathing](https://github.com/tanookki/FizMatInf/blob/master/Задачник%20Wild%20Mathing.pdf)
     + [Сканави М.И. Сборник задач по математике для поступающих во втузы](https://vk.com/doc168870003_488798368?hash=c928e7f153ab8f5c13&dl=7cb3564ba0f413b859)
     + ВМК МГУ - школе
         + [Математика. Сборник задач по базовому курсу](https://github.com/tanookki/FizMatInf/blob/master/Математика.%20Сборник%20задач%20по%20базовому%20курсу.pdf)
         + [Математика. Сборник задач по углубленному курсу.](https://github.com/tanookki/FizMatInf/blob/master/Математика.%20Сборник%20задач%20по%20углубленному%20курсу.pdf)
-        + [Геометрия. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Геометрия.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
+        + [Геометрия. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Геометрия.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
         + [Геометрия. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Геометрия.%20Углубленный%20курс%20с%20решениями%20и%20указаниями_%20учебно-методическое%20пособие.pdf)
-        + [Алгебра. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Алгебра.%20Базовый%20курс%20с%20решениями%20и%20указаниями_%20учебно-методическое%20пособие.pdf)
-        + [Алгебра. Углубленный курс](https://vk.com/doc475224071_490805201?hash=c6ab882c6142254b66&dl=b90d7f1104dc4029e4)
-    + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
+        + [Алгебра. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Алгебра.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
+        + [Алгебра. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Геометрия.%20Углубленный%20курс%20с%20решениями%20и%20указаниями.pdf)
+    + [Методические указания 2019](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_Методические%20указания.pdf)
     + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Большакова%20и%20Карпунина_Математика.%20Полный%20курс%20подготовки%20к%20ЕГЭ.pdf.pdf)
-    + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика%20—%20абитуриенту_Ткачук_2007.pdf)_
+    + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2007_Математика%20-%20абитуриенту_Ткачук.pdf)
   
 3. Сайты 
     + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
@@ -45,7 +45,7 @@
             + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
             + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
             + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
-            + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
+            + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Алгебраические%20уравнения%20и%20неравенства.pdf)
         + [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
         + [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
         + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
@@ -60,26 +60,26 @@
 
 7. Статграды // Все взято [тут](http://math100.ru/egeprofil-statgrad/)
     + 2016 - 2017
-        + 22.09.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_22.09.2016.pdf)
-        + 20.12.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2016.pdf)
-        + 26.01.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_26.01.2017.pdf)
-        + 06.03.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_06.03.2017.pdf)
-        + 21.04.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.04.2017.pdf)
-        + 20.06.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.06.2017.pdf)
+        + 22.09.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_.pdf)
+        + 20.12.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.12.2016.pdf)
+        + 26.01.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_26.01.2017.pdf)
+        + 06.03.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_06.03.2017.pdf)
+        + 21.04.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_21.04.2017.pdf)
+        + 20.06.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.06.2017.pdf)
     + 2017 - 2018
-        + 21.09.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.09.2017.pdf)
-        + 21.12.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.12.2017.pdf)
-        + 25.01.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_25.01.2018.pdf)
-        + 06.03.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_06.03.2018.pdf)
-        + 18.04.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_18.04.2018.pdf)
-        + 17.05.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_17.05.2018.pdf)
+        + 21.09.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_21.09.2017.pdf)
+        + 21.12.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_21.12.2017.pdf)
+        + 25.01.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_25.01.2018.pdf)
+        + 06.03.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_06.03.2018.pdf)
+        + 18.04.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_18.04.2018.pdf)
+        + 17.05.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_17.05.2018.pdf)
     + 2018 - 2019
-        + 20.09.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.09.2018.pdf)
-        + 20.12.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2018.pdf)
-        + 24.01.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_24.01.2019.pdf)
-        + 13.03.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_13.03.2019.pdf)
-        + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_19.04.2019.pdf)
-        + 17.05.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_17.05.2019.pdf)
+        + 20.09.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.09.2018.pdf)
+        + 20.12.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.12.2018.pdf)
+        + 24.01.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_24.01.2019.pdf)
+        + 13.03.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_13.03.2019.pdf)
+        + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_19.04.2019.pdf)
+        + 17.05.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_17.05.2019.pdf)
 
 
 
@@ -98,23 +98,23 @@
 
 3. Задачники 
     + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
-    + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2019_инфа_Диагностические%20работы.pdf)
+    + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_2019_Диагностические%20работы.pdf)
     + [Сложные варианты Д. В. Богданова ](http://ege-inf.ru)
     + ВМК МГУ - школе
-        + [Информатика. Пособие для подготовки к ЕГЭ.](https://github.com/tanookki/FizMatInf/blob/master/Информатика.%20Пособие%20для%20подготовки%20к%20ЕГЭ.%20Вовк%20Е.Т.%2C%20Глинка%20Н.В.%2C%20Грацианова%20Т.Ю..PDF)
-        + [Информатика. Программирование в примерах и задачах.](https://github.com/tanookki/FizMatInf/blob/master/Информатика.%20Программирование%20в%20примерах%20и%20задачах.%20Т.%20Ю.%20Грацианова.pdf)
+        + [Информатика. Пособие для подготовки к ЕГЭ.](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Пособие%20для%20подготовки%20к%20ЕГЭ_Вовк%20Глинка%20Грацианова.PDF)
+        + [Информатика. Программирование в примерах и задачах.](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20в%20примерах%20и%20задачах_Грацианова.pdf)
 
 4. Статграды
     + 2018 - 2019
-        + 14.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_14.09.2018_ответы%20на%202%20часть.pdf)
-        + 16.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.11.2018_ответы%20на%202%20часть.pdf)
-        + 16.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_16.01.2019_ответы%20на%202%20часть.pdf)
-        + 01.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_01.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_01.03.2019_ответы%20на%202%20часть.pdf)
-        + 15.04.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_15.04.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/статград_инф_15.04.2019_ответы%20на%202%20часть.pdf)
+        + 14.09.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_14.09.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_14.09.2018_ответы%20на%202%20часть.pdf)
+        + 16.11.2018 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_16.11.2018_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_16.11.2018_ответы%20на%202%20часть.pdf)
+        + 16.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_16.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_14.09.2018_ответы%20на%202%20часть.pdf)
+        + 01.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_01.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_01.03.2019_ответы%20на%202%20часть.pdf)
+        + 15.04.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_15.04.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_15.04.2019_ответы%20на%202%20часть.pdf)
  
 5. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
-6. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
+6. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Сложные%2023.pdf) // ответы можно узнать через программу Полякова
 
 
 
