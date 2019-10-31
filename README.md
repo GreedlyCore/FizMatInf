@@ -80,6 +80,13 @@
         + 13.03.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_13.03.2019.pdf)
         + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_19.04.2019.pdf)
         + 17.05.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_17.05.2019.pdf)
+     + 2019 - 2020
+        + 25.09.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.09.2018.pdf)
+        + 18.12.2019
+        + 29.01.2020
+        + 11.03.2020
+        + 22.04.2020
+        + 15.05.2020
 
 
 
@@ -111,6 +118,12 @@
         + 16.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_16.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_14.09.2018_ответы%20на%202%20часть.pdf)
         + 01.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_01.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_01.03.2019_ответы%20на%202%20часть.pdf)
         + 15.04.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_15.04.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_15.04.2019_ответы%20на%202%20часть.pdf)
+    + 2019 - 2020
+        + 23.09.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_23.09.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_статград_23.09.2019_ответы%20на%202%20часть.pdf)
+        + 15.11.2019
+        + 21.01.2020 
+        + 04.03.2020
+        + 29.04.2020
  
 5. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
@@ -145,6 +158,12 @@
         + 31.01.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_31.01.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_31.01.2019_ответы%20на%202%20часть.pdf)
         + 14.03.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_14.03.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_14.03.2019_ответы%20на%202%20часть.pdf)
         + 06.05.2019 [задания](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_06.05.2019_задания.pdf) - [ответы на 2 часть](https://github.com/tanookki/FizMatInf/blob/master/Физика/Физ_статград_06.05.2019_ответы%20на%202%20часть.pdf)
+    + 2019 - 2020
+        + 19.09.2019
+        + 07.11.2019
+        + 16.01.2020
+        + 05.03.2020
+        + 18.05.2020
         
 
 
