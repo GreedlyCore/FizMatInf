@@ -34,6 +34,7 @@
     + [Методические указания 2019](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_Методические%20указания.pdf)
     + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Полный%20курс%20подготовки%20к%20ЕГЭ_Большакова%20Карпунина.pdf)
     + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2007_Математика%20-%20абитуриенту_Ткачук.pdf)
+    + [Малкова 2019](https://vk.com/doc475224071_524670962?hash=aeae4487d076e30e79&dl=2b193b2bc49998232c)
   
 3. Сайты 
     + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
@@ -81,7 +82,7 @@
         + 19.04.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_19.04.2019.pdf)
         + 17.05.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_17.05.2019.pdf)
      + 2019 - 2020
-        + 25.09.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_20.09.2018.pdf)
+        + 25.09.2019 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_статград_25.09.2019.pdf)
         + 18.12.2019
         + 29.01.2020
         + 11.03.2020
@@ -220,13 +221,14 @@
         + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
         + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
     + Онлайн курсы
+        + [classcentral](https://www.classcentral.com) - собраны курсы с разных сайтов ниже по темам
         + [Coursera](https://coursera.org)
         + [Stepik](https://stepik.org/catalog)
         + [Открытое образование](https://openedu.ru)
     + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
-    + [Годный подкаст о личной эффективности](https://willbedone.ru/) + [канал в телеграме](https://t.me/willbedone)
+    + [Годный подкаст](https://willbedone.ru/) о личной эффективности "Будет сделано!" + [канал в телеграме](https://t.me/willbedone)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
     
