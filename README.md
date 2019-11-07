@@ -35,6 +35,7 @@
     + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Полный%20курс%20подготовки%20к%20ЕГЭ_Большакова%20Карпунина.pdf)
     + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2007_Математика%20-%20абитуриенту_Ткачук.pdf)
     + [Малкова 2019](https://vk.com/doc475224071_524670962?hash=aeae4487d076e30e79&dl=2b193b2bc49998232c)
+    + [Прототипы заданий 1 части](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Прототипы%201%20части.pdf)
   
 3. Сайты 
     + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
