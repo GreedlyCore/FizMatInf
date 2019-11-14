@@ -101,6 +101,7 @@
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
     + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
     + [Информатика с Евгением Джобсом](https://www.youtube.com/channel/UCu50NY1uYmfuAWtNqPpHyDg)
+        + [Группа в вк, где есть варианты ЕГЭ](https://vk.com/inform_web)
   
 2. [Лучший сайт по подготовке Полякова Константина Юрьевича](http://kpolyakov.spb.ru/school/ege.htm)
 
@@ -230,7 +231,7 @@
     + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
-    + [Годный подкаст](https://willbedone.ru/) о личной эффективности "Будет сделано!" + [канал в телеграме](https://t.me/willbedone)
+    + [Годный подкаст о том, как всё успевать, эффективно работать и жить в удовольствие "Будет сделано!"](https://willbedone.ru/)  + [канал в телеграме с обсуждением этих тем](https://t.me/willbedone)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
     
