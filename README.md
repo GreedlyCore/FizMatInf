@@ -100,6 +100,7 @@
     + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
     + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
     + [Сергей Ракитько. Информатика ЕГЭ | IET](https://vk.com/infoegetactics)
+    + [Информатика с Евгением Джобсом](https://www.youtube.com/channel/UCu50NY1uYmfuAWtNqPpHyDg)
   
 2. [Лучший сайт по подготовке Полякова Константина Юрьевича](http://kpolyakov.spb.ru/school/ege.htm)
 
