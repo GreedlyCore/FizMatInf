@@ -114,6 +114,7 @@
     + ВМК МГУ - школе
         + [Информатика. Пособие для подготовки к ЕГЭ.](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Пособие%20для%20подготовки%20к%20ЕГЭ_Вовк%20Глинка%20Грацианова.PDF)
         + [Информатика. Программирование в примерах и задачах.](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20в%20примерах%20и%20задачах_Грацианова.pdf)
+    + К. Ю. Поляков. Программирование C++/Python в 4 частях: [1](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20С%2B%2B%20Python_Поляков_1.djvu) [2](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20С%2B%2B%20Python_Поляков_2.djvu) [3](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20С%2B%2B%20Python_Поляков_3.djvu) [4](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Программирование%20С%2B%2B%20Python_Поляков_4.djvu)
 
 4. Статграды
     + 2018 - 2019
@@ -234,6 +235,6 @@
     + [Годный подкаст о том, как всё успевать, эффективно работать и жить в удовольствие "Будет сделано!"](https://willbedone.ru/)  + [канал в телеграме с обсуждением этих тем](https://t.me/willbedone)
     + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
-    
+    + [Плейлист, где только спокойная фоновая музыка. Помогает решать матешу с 2018 года](https://vk.com/music/album/221501410_6)
  
 
