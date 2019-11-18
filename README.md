@@ -37,7 +37,9 @@
     + [Малкова 2019](https://vk.com/doc475224071_524670962?hash=aeae4487d076e30e79&dl=2b193b2bc49998232c)
     + [Прототипы заданий 1 части](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Прототипы%201%20части.pdf)
   
-3. Сайты 
+3. Книги
+	+ [А.В Шевкин Текстовые задачи по математике 7-11 класс](https://drive.google.com/open?id=1el3ybo10IzTItsYRolYadd7NP2UL3QJo)
+4. Сайты 
     + [Сканируй. Решай. Учись. Photomath'.](https://www.photomath.net/ru/)
     + [Desmos. Покатайся по графикам](https://www.desmos.com)
     + [Wolfram Аlpha](https://www.wolframalpha.com)
@@ -237,4 +239,3 @@
     + [Трудоустройство после вуза](http://vo.graduate.edu.ru/passport#/?search=true&slice=1&year=2015&year_monitoring=2016)
     + [Плейлист, где только спокойная фоновая музыка. Помогает решать матешу с 2018 года](https://vk.com/music/album/221501410_6)
  
-
