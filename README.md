@@ -1,6 +1,7 @@
 [Наша группа в вк](https://vk.com/clubmaslov)
+[Наша беседа в вк, где обсуждают егэ, поступление, учебу](https://vk.cc/9JOQjK)
 
-Если нашел какую-то ошибку или у тебя есть материалы, которых нет тут, то пиши [мне](https://vk.com/tanookki)
+Если нашел какую-то ошибку или у тебя есть материалы, которых нет тут, то пиши [мне в вк](https://vk.com/tanookki)
 
 # Математика
 1. Каналы
@@ -13,6 +14,7 @@
     + [Школа Пифагора](https://www.youtube.com/channel/UC407WiIWio6gwRluzNSUQ3w)
     + [eXtraTeam](https://www.youtube.com/user/dmitrysinyaev)
     + [Андрей Павликов. ЕГЭ и ОГЭ с математиком МГУ](https://www.youtube.com/channel/UCSdmht0kbvfnItRMNcr4qZA)
+    + [100балльный репетитор](https://www.youtube.com/user/irek1743/featured)
   
 2. Задачники
     + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_36%20вариантов_Ященко.pdf) // Ященко на аве - билет в кармане
@@ -30,7 +32,7 @@
         + [Геометрия. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Геометрия.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
         + [Геометрия. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Геометрия.%20Углубленный%20курс%20с%20решениями%20и%20указаниями.pdf)
         + [Алгебра. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Алгебра.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
-        + [Алгебра. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Геометрия.%20Углубленный%20курс%20с%20решениями%20и%20указаниями.pdf)
+        + [Алгебра. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Алгебра.%20Углубленный%20курс%20с%20решениями%20и%20указаниями.pdf)
     + [Методические указания 2019](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2019_Методические%20указания.pdf)
     + [Большакова и Карпунина. 2014. Математика. Полный курс подготовки к ЕГЭ](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Полный%20курс%20подготовки%20к%20ЕГЭ_Большакова%20Карпунина.pdf)
     + [Ткачук. Математика абитуриенту](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_2007_Математика%20-%20абитуриенту_Ткачук.pdf)
@@ -217,7 +219,8 @@
     + [Для ознакомления с foxford.ru](https://github.com/limitedeternity/foxford_courses)
     + [Сайт с пособиями и книгами](https://nashol.com/ege-matematika)
     + [Папка с кучей нужного по всем почти предметам](https://yadi.sk/d/jWlEgPt0Q7pbuA)
-    + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) и [еще раз математике](https://yadi.sk/d/b-IR1yyJl7xdjQ)// возможны повторения задачников 
+    + Папки по [информатике](https://yadi.sk/d/D31Tad1cSZ8INQ), [физике](https://yadi.sk/d/l1ZDVoKHagwxdg), [математике](https://yadi.sk/d/AVG_fqdGCjX_Uw) и [еще раз математике](https://yadi.sk/d/b-IR1yyJl7xdjQ)// возможны повторения задачников
+    + [Школково - подготовка ко всем предметам ЕГЭ и олимпиадам](https://shkolkovo.net)
     
 2. Не для егэ
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
@@ -231,6 +234,7 @@
         + [Coursera](https://coursera.org)
         + [Stepik](https://stepik.org/catalog)
         + [Открытое образование](https://openedu.ru)
+	+ [Дистанционный подготовительный факультет по IT-специальностям совместно с ведущими техническими вузами РФ](https://universarium.org)
     + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
