@@ -235,7 +235,7 @@
         + [Coursera](https://coursera.org)
         + [Stepik](https://stepik.org/catalog)
         + [Открытое образование](https://openedu.ru)
-	+ [Дистанционный подготовительный факультет по IT-специальностям совместно с ведущими техническими вузами РФ](https://universarium.org)
+			+ [Дистанционный подготовительный факультет по IT-специальностям совместно с ведущими техническими вузами РФ](https://universarium.org)
     + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
