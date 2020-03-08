@@ -59,9 +59,15 @@
         + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Задачи%20с%20параметрами.pdf)
         + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Нестандартные%20задачи.pdf)
     + [Ларин Александр Александрович](http://alexlarin.net/ege19.html)
+    + Дмитрий Иванов(Ломоносов)
+    	+ [6000 задач из егэ с разбором](https://uchus.online/tasks/bank/4)
+    	+ [Разборы тем ЕГЭ](https://uchus.online/courses/15)
 
 5. Для шпор
     + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Справочные%20материалы%20от%20Пифагора.pdf)
+    + Дмитрий Иванов(Ломоносов)
+    	+ [Формулы ЕГЭ и ОГЭ](https://uchus.online/courses/14)
+	+ [Геометрия экспесс](https://uchus.online/courses/16)
 
 6. [Параметры из открытого банка 2018](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
@@ -135,7 +141,7 @@
         + 04.03.2020
         + 29.04.2020
  
-5. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
+5. [Все прототипы 1 части от трех котанов из 18 года](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
 6. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/Информатика/Инф_Сложные%2023.pdf) // ответы можно узнать через программу Полякова
 
@@ -235,7 +241,7 @@
         + [Coursera](https://coursera.org)
         + [Stepik](https://stepik.org/catalog)
         + [Открытое образование](https://openedu.ru)
-			+ [Дистанционный подготовительный факультет по IT-специальностям совместно с ведущими техническими вузами РФ](https://universarium.org)
+	+ [Дистанционный подготовительный факультет по IT-специальностям совместно с ведущими техническими вузами РФ] (https://universarium.org)
     + [Высшая математика – просто и доступно!](http://www.mathprofi.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
