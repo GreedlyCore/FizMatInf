@@ -66,7 +66,9 @@
 5. Для шпор
     + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Справочные%20материалы%20от%20Пифагора.pdf)
     + Дмитрий Иванов(Ломоносов)
-    	+ [Формулы ЕГЭ и ОГЭ](https://uchus.online/courses/14) + [Геометрия экспесс](https://uchus.online/courses/16)
+    	+ [Формулы ЕГЭ и ОГЭ](https://uchus.online/courses/14)
+    	+ [Геометрия экспесс](https://uchus.online/courses/16)
+    	
 
 6. [Параметры из открытого банка 2018](https://github.com/tanookki/FizMatInf/blob/master/Математика/Мат_Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
